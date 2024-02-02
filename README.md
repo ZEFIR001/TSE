@@ -8,3 +8,4 @@ Before :
 
 After :
 <img src='https://files.catbox.moe/30lodo.png'/>
+Head out to "Releases" for download.
