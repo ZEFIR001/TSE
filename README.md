@@ -4,7 +4,7 @@ Gives you advantage in fights due lower input latency and simplier visuals,helps
 FPS boost +228% on GPU bound systems. Look at GPU usage on screenshots bellow :
 
 Before :
-![alt text]([http://url/to/img.png](https://files.catbox.moe/jmlfct.png)https://files.catbox.moe/jmlfct.png)
+https://files.catbox.moe/jmlfct.png
 
 After :
-[https://files.catbox.moe/30lodo.png](https://files.catbox.moe/30lodo.png)https://files.catbox.moe/30lodo.png
+https://files.catbox.moe/30lodo.png
